@@ -1,2 +1,2 @@
 # ml_k
-Building Regression, NN-models using scikit-learn, tensorflow
+Building Regression and NN models using scikit-learn, tensorflow
